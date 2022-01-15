@@ -6,6 +6,7 @@
 
 
 
-<div align="center">
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="sagaryadav8742" data-color="#14bdb2" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
-<div align="center">
+<h3 align="center"> if you want to buy a beer for me 🥺👉👈
+<p></P>
+<a href="https://www.buymeacoffee.com/sagaryadav8742"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=sagaryadav8742&button_colour=14bdb2&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+</h3>
