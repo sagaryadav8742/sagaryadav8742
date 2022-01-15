@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Sagar
 - 👀 I’m interested in Web Application Penetration Testing, Vulnerability Assessment & Penetration Testing, Android Penetration Testing, Bug Hunnting
-- 🌱 I’m currently Networkin Penetration Testing & Python 
+- 🌱 I’m doing Network Penetration Testing
 - 💞️ I’m looking to collaborate on Bug Hunnting Scripts
 - 📫 You can contact me Here :- instagram.com/sagaryadav8742
 
-<!---
-sagaryadav8742/sagaryadav8742 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="sagaryadav8742" data-color="#14bdb2" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
