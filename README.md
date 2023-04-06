@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Sagar
-- 👀 I’m interested in Web Application Penetration Testing, Vulnerability Assessment & Penetration Testing, Android Penetration Testing, Bug Hunnting
-- 🌱 I’m doing Network Penetration Testing
-- 💞️ I’m looking to collaborate on Bug Hunnting Scripts
-- 📫 You can contact me Here :- instagram.com/sagaryadav8742
+- 👀 I do Web Application Penetration Testing, Vulnerability Assessment & Penetration Testing, Android Penetration Testing, Bug Hunnting
+- 📫 You can contact me Here :- www.linkedin.com/in/sagaryadav8742
 
 
 ---
